@@ -36,6 +36,15 @@ html {
     height: 100%;
     transform: translateY(-3px); /* account for the height of the clock hands */
   }
+  .red{
+      color:red;
+  }
+.blue{
+    color:blue;
+}
+.white{
+    color:white;
+}
 
   .hand {
     width: 50%;
